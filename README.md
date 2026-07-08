@@ -57,7 +57,7 @@ PersonalityPrediction
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/PersonalityPrediction.git
+git clone https://github.com/prasanna1292/CrixsoftSolution_PersonalityPrediction.git
 ```
 
 ### 2. Open the Project Folder
